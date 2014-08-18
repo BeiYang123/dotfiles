@@ -36,4 +36,5 @@ PS4='+ '
 }
 proml
 
-
+# git auto completion
+source ~/git-completion.bash
